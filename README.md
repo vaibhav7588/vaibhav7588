@@ -26,16 +26,7 @@ Email Me 👉 ✉️ **bandevaibhav11@gmail.com** For Collaboration/Project or A
 ![](https://github-readme-stats.shion.dev/api?username=vaibhav7588&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=vaibhav7588&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vaibhav7588&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-# Currency Converter
 
-A simple Currency Converter website built using HTML, CSS and JavaScript.
-
-## 🌐 Live Demo
-
-[Click here to use Currency Converter](https://currency-converter-eta-lemon.vercel.app)
-# Crop Recommendation System
-
-An ML-based Crop Recommendation System that recommends suitable crops based on soil and environmental parameters.
 # 🌤️ WeatherNow
 A responsive weather dashboard built using HTML, CSS, JavaScript and the OpenWeatherMap API.
 
@@ -66,6 +57,17 @@ A responsive weather dashboard built using HTML, CSS, JavaScript and the OpenWea
 ## Author
 Vaibhav Bande
 
+# Currency Converter
+
+A simple Currency Converter website built using HTML, CSS and JavaScript.
+
+## 🌐 Live Demo
+
+[Click here to use Currency Converter](https://currency-converter-eta-lemon.vercel.app)
+
+# Crop Recommendation System
+
+An ML-based Crop Recommendation System that recommends suitable crops based on soil and environmental parameters.
 ## 🌐 Live Demo
 
 🚀 [Click Here to Try the Crop Recommendation System](https://crop-recommendation-system-bce9kk6jsz56yxbnpbup7u.streamlit.app/)
