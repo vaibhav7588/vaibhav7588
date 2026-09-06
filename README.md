@@ -49,6 +49,22 @@ An ML-based Crop Recommendation System that recommends suitable crops based on s
 - NumPy
 - Scikit-learn
 - Streamlit
+- # Student Placement Prediction System
+
+An ML-based system that predicts student placement outcomes using academic and other relevant features.
+
+## 🌐 Live Demo
+
+🚀 [Click Here to Try the Student Placement Prediction System](https://student-placement-predictionsystem-xmsjfwasdsbivtyg3kyjcy.streamlit.app/)
+
+## 🛠️ Technologies Used
+
+- Python
+- Machine Learning
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaibhav7588&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
