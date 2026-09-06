@@ -33,6 +33,22 @@ A simple Currency Converter website built using HTML, CSS and JavaScript.
 ## 🌐 Live Demo
 
 [Click here to use Currency Converter](https://currency-converter-eta-lemon.vercel.app)
+# Crop Recommendation System
+
+An ML-based Crop Recommendation System that recommends suitable crops based on soil and environmental parameters.
+
+## 🌐 Live Demo
+
+🚀 [Click Here to Try the Crop Recommendation System](https://crop-recommendation-system-bce9kk6jsz56yxbnpbup7u.streamlit.app/)
+
+## 🛠️ Technologies Used
+
+- Python
+- Machine Learning
+- Pandas
+- NumPy
+- Scikit-learn
+- Streamlit
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vaibhav7588&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
