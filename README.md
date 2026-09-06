@@ -36,6 +36,35 @@ A simple Currency Converter website built using HTML, CSS and JavaScript.
 # Crop Recommendation System
 
 An ML-based Crop Recommendation System that recommends suitable crops based on soil and environmental parameters.
+# 🌤️ WeatherNow
+A responsive weather dashboard built using HTML, CSS, JavaScript and the OpenWeatherMap API.
+
+## Features
+- 🌍 Search weather by city
+- 📍 Current location weather (geolocation)
+- 🌡️ Current, feels-like, min/max temperature
+- 💧 Humidity, wind speed & direction, pressure, visibility, cloudiness
+- 🌅 Sunrise/sunset with a live day-progress bar
+- ⏱️ Hourly forecast (next ~12 hours)
+- 📅 5-day forecast
+- 🌫️ Air quality index (AQI + pollutants)
+- ☀️ UV index with safety tips
+- ⭐ Favorite cities & recent searches (saved locally)
+- 🌗 Dark/Light mode
+- 🌡️ °C / °F toggle
+- 📱 Fully responsive design
+
+## Technologies
+- HTML5
+- CSS3
+- JavaScript
+- OpenWeatherMap API
+
+## Live Demo
+https://weather-now.vercel.app
+
+## Author
+Vaibhav Bande
 
 ## 🌐 Live Demo
 
