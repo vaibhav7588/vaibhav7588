@@ -61,7 +61,7 @@ A responsive weather dashboard built using HTML, CSS, JavaScript and the OpenWea
 - OpenWeatherMap API
 
 ## Live Demo
-[Click here to use Whether Now](https://vercel.com/vaibhav7588/weather-now)
+[Click here to use Whether Now]((https://weather-now-flax-xi.vercel.app/))
 
 ## Author
 Vaibhav Bande
