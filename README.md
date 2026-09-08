@@ -1,12 +1,6 @@
 # 💫 Hi 👋, I'm Vaibhav Bande
 **Computer Engineering Student || Java Developer ||  DSA Learner || AI/ML Enthusiast**
-
-- 🌐 **Portfolio Website:** [View Live Site](https://vaibhavbande.vercel.app)
-## 🚀 Projects
-- 🌦️ **[Weather-Now](https://weather-now-flax-xi.vercel.app)** – Real-time weather forecasting app using REST APIs.
-- 💱 **[Currency Converter](https://currency-converter-eta-lemon.vercel.app)** – Real-time exchange rate conversion web tool.
-- 🎓 **[Placement Prediction System](https://student-placement-predictionsystem-xmsjfwasdsbivtyg3kyjcy.streamlit.app/)** – ML-powered placement probability estimator built with Streamlit.
-- 🌾 **[Crop Recommendation System](https://crop-recommendation-system-bce9kk6jsz56yxbnpbup7u.streamlit.app/)** – AI model suggesting optimal crops based on soil parameters.
+🌐 **Live Portfolio:** [https://portfolio-qezq.vercel.app](https://portfolio-qezq.vercel.app)
 
 Email Me 👉 ✉️ **bandevaibhav11@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
