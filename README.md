@@ -1,5 +1,6 @@
 # 💫 Hi 👋, I'm Vaibhav Bande
 **Computer Engineering Student || Java Developer ||  DSA Learner || AI/ML Enthusiast**
+
 🌐 **Live Portfolio:** [https://portfolio-qezq.vercel.app](https://portfolio-qezq.vercel.app)
 
 Email Me 👉 ✉️ **bandevaibhav11@gmail.com** For Collaboration/Project or Anything Else. 😊😊
@@ -27,6 +28,8 @@ Email Me 👉 ✉️ **bandevaibhav11@gmail.com** For Collaboration/Project or A
 ![](https://github-readme-stats.shion.dev/api?username=vaibhav7588&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=vaibhav7588&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vaibhav7588&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🚀 Projects:
 
 # 🌤️ WeatherNow
 A responsive weather dashboard built using HTML, CSS, JavaScript and the OpenWeatherMap API.
